@@ -1,0 +1,12 @@
+body {
+  overflow-y: visible;
+  overflow-x: hidden;
+}
+
+sup {
+  color: red;
+}
+
+.jumbotron {
+  background: blueviolet;
+}
